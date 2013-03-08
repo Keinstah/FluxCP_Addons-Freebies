@@ -19,13 +19,15 @@ Features:
 Compability:
 - Tested on Xantara's FluxCP for rAthena - https://github.com/m...ntara/fluxcp-rA
 
-Rules:
-- All purchases are non-refundable.
-- Do not redistribute or resell anything from this work, this also includes modified versions of anything I've made.
-- Do not steal the credit of this work.
-- Do not remove or replace license text, images, etc.
+How to Install:
+- Download the file https://github.com/Feefty/FluxCP_Addon-Freebies/archive/master.zip
+- Extract it
+- Rename the folder to freebies
+- Copy and Paste it to your fluxcp addons folder
 
-Purchasing this addon includes lifetime and free support.
+Rules:
+- Do not steal the credit of this work.
+
 If you find a bug, please contact me.
 
 Email: kingfeefty@gmail.com
