@@ -1,4 +1,4 @@
-FluxCP_Addon-Freebies
+FluxCP Addon [Freebies]
 =====================
 Features:
 - Freebies Character Selection, You have to select the character where you want the freebies to claimed.
