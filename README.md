@@ -30,5 +30,8 @@ Rules:
 
 If you find a bug, please contact me.
 
-Email: kingfeefty@gmail.com
+Email: kingfeefty@gmail.com  
 rAthena: Feefty
+
+Feel free to buy me a coffee  
+Paypal: keinstah@gmail.com
